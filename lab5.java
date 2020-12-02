@@ -75,4 +75,3 @@ class lab5
 }
   	
  
-a
